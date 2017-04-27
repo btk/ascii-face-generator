@@ -1,7 +1,9 @@
 #ascii-face-generator
+
 generates 7 digit ascii faces, that I'm planning to use as a fun neural network project later on.
 
 ##can I try?
+
 Yes, clone the repo and start using index.js via cli or import the generator function to your own js file;
 
 ```JS
@@ -9,6 +11,7 @@ import { generateFace } from "./index.js"
 ```
 
 ##some examples
+
 examples generated with the script :(0.0):
 
 ```
